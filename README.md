@@ -16,3 +16,6 @@ Args:
   <data>  Data to send to the port
 
 ```
+
+
+Build yourself or download the latest release here https://github.com/binaryplease/serialsend/releases/latest
